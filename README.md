@@ -9,7 +9,7 @@ As a professional I combine analytical skills and attention to detail. Working f
 
 I am currently studying Computing Technologies at Solent University (UK) and Data Science at Sigmoidal (BR).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python.
 
 **Links:**
 * [Blog]()
