@@ -14,4 +14,4 @@ I am currently studying Computing Technologies at Solent University (UK) and Dat
 **Links:**
 * [Blog]()
 * [LinkedIn](https://bit.ly/3pjKRMo)
-* [Medium]()
+* [Medium](https://medium.com/@douglas.link)
