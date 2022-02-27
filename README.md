@@ -3,7 +3,7 @@
 </p>
 
 # Douglas Link
-<sub>*Student Data Scientist*</sub>
+<sub>*Data Scientist*</sub>
 
 As a professional I combine analytical skills and attention to detail. Working for several years as an Administrator I was able to develop my critical thinking and problem-solving skills. This set of skills influenced me on pursuing Data Science when I decided on a career change.
 
